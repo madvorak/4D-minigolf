@@ -1,0 +1,44 @@
+﻿#Name Flat Cube
+#Theme Forest4D
+#Par 9
+#ParTime 5
+#Day 1
+#Music Standard
+#Ball 0,0,2,0
+#Hole -4,0,6,-4 0,1,0,0
+Start4
+Straight4
+Turn4
+Turn4
+Straight4
+Straight4
+Turn4
+Straight4
+Straight4
+Turn4
+Turn4,1
+Turn4
+Turn4,3
+Straight4
+Straight4
+Turn4
+Straight4
+Straight4
+Turn4
+Straight4
+Straight4
+Turn4,1
+Straight4
+Straight4
+Turn4
+Turn4,3
+Turn4
+Turn4,2
+Turn4
+Straight4
+Straight4
+Turn4
+Straight4
+Straight4
+Straight4
+EndContinue4
